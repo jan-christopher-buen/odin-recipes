@@ -1,0 +1,32 @@
+body {
+  background-color: yellow;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: black;
+  font-size: 36px;
+}
+
+h2 {
+  color: black;
+  background-color: lightgray;
+  padding: 10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  color: blue;
+  font-weight: bold;
+}
